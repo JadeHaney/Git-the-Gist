@@ -1,6 +1,6 @@
 # Git the Gist
 
-Greetings, fellow developers!👽 
+Greetings, fellow developers! 👽 
 
 Welcome to this regex tutorial, where we'll be diving deep into the fascinating world of regular expressions to understand how they work in validating email addresses. Throughout this tutorial, we'll break down the regex "/^([a-z0-9_.-]+)@([\da-z.-]+).([a-z.]{2,6})$/" step by step, so you can grasp each part's role in ensuring an email follows the right format. Whether you're a seasoned pro brushing up on regex or a newbie eager to learn, you're in the right spot. Let's unravel the secrets of regex together!
 
