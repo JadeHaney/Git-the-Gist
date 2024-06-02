@@ -51,4 +51,4 @@ This tutorial is authored by [Jade Haney](https://github.com/JadeHaney). Feel fr
 Feel free to copy, modify, and share this tutorial to help others understand regular expressions better! Happy coding! 🚀✨
 
 
-[text](../Get-the-Gist/README.md)
+[Get the Gist](../Get-the-Gist/README.md)
