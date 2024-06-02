@@ -44,7 +44,7 @@ Before diving into the regex components, let's briefly discuss what a hex value 
 - `#abc123 test`: Does not match.
 
 ## Author 📝
-This tutorial is authored by [Jade Haney](https://github.com/yourusername). Feel free to explore more of my projects on GitHub!
+This tutorial is authored by [Jade Haney](https://github.com/JadeHaney). Feel free to explore more of my projects on GitHub!
 
 ---
 
